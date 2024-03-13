@@ -1,4 +1,4 @@
-<h1>Hi, Temel! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, My name is Temel! <br/> <a href="https://www.linkedin.com/in/temeljennings/">Recent Informations Systems Graduate studying Cybersecurity.</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
