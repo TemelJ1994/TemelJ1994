@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity Projects</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Setup SIEM for Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setup SIEM for Sentinel](https://github.com/TemelJ1994/Setup-SIEM-for-Sentinel)
   - [Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
