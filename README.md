@@ -5,7 +5,7 @@
 - <b>Cybersecurity Projects</b>
   - [Active Directory Home Lab](https://github.com/TemelJ1994/ActiveDirectoryLab/blob/main/README.md)
   - [Setup SIEM for Sentinel](https://github.com/TemelJ1994/Setup-SIEM-for-Sentinel/blob/main/README.md)
-  - [Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Vulnerability Management Lab](https://github.com/TemelJ1994/Vulnerability-Management-Nessus)
 
 
 
